@@ -1,0 +1,20 @@
+Due to security reasons, Java ________ cannot run from a Web browser in the new version of Java.\na) applets\nb) applications\nc) servlets\nd) Micro Edition programs\n
+Which of the following statements is correct?\na) Every line in a program must end with a semicolon.\nb) Every statement in a program must end with a semicolon.\nc) Every class must end with a semicolon.\nd) Every method must end with a semicolon.\ne) Every comment line must end with a semicolon.\n
+________ is a software that interprets Java bytecode.\na) Java API\nb) Java compiler\nc) Java virtual machine\nd) Java debugger\n
+Suppose you define a Java class as follows:\npublic class Test {\n\n}\n\nIn order to compile this program, the source code should be stored in a file named ________.\na) Test.class\nb) Test.java\nc) Test.txt\nd) Test.doc\ne) any name with extension .java\n
+Java was developed by ________.\na) IBM\nb) Sun Microsystems\nc) Apple\nd) Cisco Systems\ne) Microsoft\n
+If a program compiles fine, but it produces incorrect result, then the program suffers ________.\na) a logic error\nb) a compilation error\nc) a runtime error\n
+________ is the brain of a computer.\na) Hardware\nb) CPU\nc) Disk\nd) Memory\n
+________ is the physical aspect of the computer that can be seen.\na) Operating system\nb) Hardware\nc) Software\nd) Application program\n
+________ is a technical definition of the language that includes the syntax and semantics of the Java programming language.\na) Java API\nb) Java IDE\nc) Java language specification\nd) Java JDK\n
+Which JDK command is correct to run a Java application in ByteCode.class?\na) java ByteCode\nb) javac ByteCode.java\nc) java ByteCode.class\nd) javac ByteCode\ne) JAVAC ByteCode\n
+________ is a device to connect a computer to a local area network (LAN).\na) Regular modem\nb) DSL\nc) NIC\nd) Cable modem\n
+Java compiler translates Java source code into ________.\na) machine code\nb) assembly code\nc) Java bytecode\nd) another high-level language code\n
+________ consists of a set of separate programs for developing and testing Java programs, each of which is invoked from a command line.\na) Java language specification\nb) Java API\nc) Java IDE\nd) Java JDK\n
+Analyze the following code.\n\nI:\npublic class Test {\npublic static void main(String[] args) {\nSystem.out.println("Welcome to Java!");\n}\n}\n\nII:\npublic class Test { public static void main(String[] args) \n{ System.out.println("Welcome to Java!"); } }\n\na)  Only the code in II can compile and run and display Welcome to Java.\nb) Both I and II can compile and run and display Welcome to Java, but the code in II has a better style than I.\nc) Both I and II can compile and run and display Welcome to Java, but the code in I has a better style than II.\nd)  Only the code in I can compile and run and display Welcome to Java.\n
+Which of the following statements is correct to display Welcome to Java on the console?\na) System.println('Welcome to Java');\nb) System.out.println("Welcome to Java");\nc) System.out.println('Welcome to Java');\nd) System.out.println("Welcome to Java');\ne) System.out.println('Welcome to Java");\n
+The speed of the CPU may be measured in ________.(Multiple answers)\na) gigahertz\nb) gigabytes\nc) megahertz\nd) megabytes\n
+________ contains predefined classes and interfaces for developing Java programs.\na) Java IDE\nb) Java API\nc) Java language specification\nd) Java JDK\n
+________ is an operating system.\na) Java\nb) Visual Basic\nc) Windows\nd) C++\ne) Ada\n
+________ is a program that runs on a computer to manage and control a computer's activities.\na) Operating system\nb) Compiler\nc) Interpreter\nd) Modem\ne) Java\n
+Every statement in Java ends with ________.\na)  a period (.)\nb) an asterisk (*)\nc) a semicolon (;)\nd) a comma (,)\n
